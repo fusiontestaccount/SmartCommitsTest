@@ -1,0 +1,2 @@
+# SmartCommitsTest
+SmartCommitsTest
