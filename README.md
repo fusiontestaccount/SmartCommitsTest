@@ -4,3 +4,4 @@ SmartCommitsTest
 This is another commit
 sahdkaskdhaskhas
 asdassadadas
+adasdasd
